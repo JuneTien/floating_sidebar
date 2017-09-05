@@ -2,7 +2,8 @@
 ***
 #### 
 
-I use the create-react-app to start this React project, and added the drag component into this project.   
+I use the create-react-app to start this React project, and added the floating bar on the page.   
+This  floating bar can move to left or right.
 
 ***
 Live demo step:    

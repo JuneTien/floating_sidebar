@@ -2,6 +2,8 @@
   "name": "floating_sidebar",
   "version": "0.1.0",
   "private": true,
+  "author": "JuneTien",
+  "homepage": "https://junetien.github.io/floating_sidebar/",
   "dependencies": {
     "gh-pages": "^1.0.0",
     "react": "^15.6.1",
