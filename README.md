@@ -1,1 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+#### Demo Site: https://junetien.github.io/floating_sidebar/
+***
+#### 
+
+I use the create-react-app to start this React project, and added the drag component into this project.   
+
+***
+Live demo step:    
+1. <code># clone this repository</code> 
+2. <code>npm install</code>  
+3. <code>npm start</code>

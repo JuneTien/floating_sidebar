@@ -1,14 +1,8 @@
 import React, { Component } from 'react';
 
 class FloatingSidebar extends Component {
-  constructor(props){
-    super(props);
-  }
 
   moveHandler = (e) => {
-    let min = 300;
-    let max = 3600;
-    let mainmin = 200;
     e.preventDefault();
 
     let x = e.pageX - this.refs.leftSide.offsetLeft;
